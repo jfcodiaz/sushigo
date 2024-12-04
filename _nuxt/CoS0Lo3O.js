@@ -1,1 +1,0 @@
-import{c as o,a,o as t}from"./BglW7JMe.js";const u={__name:"index",setup(r){return(n,e)=>(t(),o("div",null,e[0]||(e[0]=[a("h1",null,"About SushiGo",-1),a("p",null,"Learn more about our app and its features.",-1)])))}};export{u as default};
