@@ -1,0 +1,1 @@
+import{_ as o,c as a,a as t,o as n}from"./BBGAxy_P.js";const s={};function r(c,e){return n(),a("div",null,e[0]||(e[0]=[t("h1",null,"Welcome to the Homepage",-1),t("p",null,"This is the main page of the site.",-1)]))}const i=o(s,[["render",r]]);export{i as default};
